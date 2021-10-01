@@ -1,0 +1,6 @@
+numpy
+scipi
+matplotlib
+ipywidgets
+IPython
+scipy
